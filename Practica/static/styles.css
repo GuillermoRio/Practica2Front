@@ -1,0 +1,23 @@
+.paginaResultado {
+   padding-top: 300px;
+}
+
+button,input {
+  width: 250px;
+  height: 30px; 
+  font-size: 15px;
+
+}
+.botonesVolver {
+  width: 500px;
+  height: 60px; 
+  font-size: 30px;
+  background-color: #4CAF50;
+}
+.botonesVolver:hover {
+  cursor: pointer;
+
+}
+div {
+  text-align: center;
+}
